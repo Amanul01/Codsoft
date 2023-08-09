@@ -22,7 +22,6 @@ def final():
 root=Tk()
 root.geometry('280x322')
 root.title('Calculator')
-root.iconbitmap('F:\COURSES\PRACTICE\PYTHON PRACTICE\home.ico')
 root.resizable(0,0)
 root.configure(background='black')
 
